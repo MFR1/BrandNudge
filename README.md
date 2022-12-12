@@ -1,5 +1,5 @@
-# BrandNudge
-Python Web Scraping ETL based Bot developed for John Lewis website.
+# Brand Nudge
+Python Web Scraping ETL (Extract, Transform, Load) based Bot developed for John Lewis website.
 
 # Database Used
 MySQL is used to store products data and their promotions.
@@ -11,6 +11,11 @@ SQL files are attached
 
 ## Promotions Table: 
 ![Promotions Table](https://user-images.githubusercontent.com/37844263/207085511-f2bc1117-9bfc-4268-8d05-0a566cc42552.png)
+
+# Prerequisites
+Make sure to install:
+1. Python
+2. MySQL (https://www.mysql.com/downloads/)
 
 # Quick Setup
 1. Download all the files
